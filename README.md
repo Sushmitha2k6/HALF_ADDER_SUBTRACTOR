@@ -64,6 +64,9 @@ Figure -02 HALF Subtractor
 
 ![exp3logicdiagram](https://github.com/user-attachments/assets/49e8054d-508b-4561-83d9-05fabf131c13)
 
+
+
+
 **RTL Schematic**
 
 **TIMING DIAGRAM:**
